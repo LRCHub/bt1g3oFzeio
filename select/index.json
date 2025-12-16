@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "グラデーション",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T06:40:51.520794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gradation [グラデーション]",
+      "artist": "clammbon",
+      "has_synced": true,
+      "path": "select/01_Gradation_[グラデーション]_clammbon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グラデーション - Acoustic ver.",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/02_グラデーション_-_Acoustic_ver._SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グラデーション",
+      "artist": "戸松遥",
+      "has_synced": false,
+      "path": "select/03_グラデーション_戸松遥.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グラデーション",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/04_グラデーション_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グラデーション",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/05_グラデーション_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グラデーション",
+      "artist": "アルストロメリア",
+      "has_synced": true,
+      "path": "select/06_グラデーション_アルストロメリア.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グラデーション",
+      "artist": "アルストロメリア (黒木ほの香, 前川涼子, 芝崎典子)",
+      "has_synced": true,
+      "path": "select/07_グラデーション_アルストロメリア_(黒木ほの香,_前川涼子,_芝崎典子).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グラデーション - From THE FIRST TAKE",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/08_グラデーション_-_From_THE_FIRST_TAKE_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グラデーション",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_グラデーション_SUPER_BEAVER.txt"
+    }
+  ]
+}
